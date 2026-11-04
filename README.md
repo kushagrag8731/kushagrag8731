@@ -26,7 +26,6 @@ Beyond engineering, I'm interested in how technology intersects with fields like
 
 Outside work, I'm into films, music and music culture, pop culture, and fitness. I'm also prone to the occasional deep dive into some obscure corner of the internet.
 
----
 
 ## Experience
 
@@ -42,16 +41,6 @@ Software Development Intern · <sub>May – Jul 2025</sub>
 **[Infosys Centre for Artificial Intelligence, IIIT Delhi](https://www.linkedin.com/company/iiitdcai/)**  
 Research Intern · <sub>Jul – Nov 2024</sub>
 
----
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/kushagragupta8731">
-    <img src="https://img.shields.io/badge/LinkedIn-4769B1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kushagrag8731@gmail.com">
-    <img src="https://img.shields.io/badge/Email-27877F?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/kushagrag8731?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-334155?style=flat-square&logo=github&logoColor=white" alt="Repositories"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&section=header&color=0:4769B1,100:27877F" width="100%" alt=""/>
 </p>
