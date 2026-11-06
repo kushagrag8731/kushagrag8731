@@ -30,16 +30,16 @@ Outside work, I'm into films, music and music culture, pop culture, and fitness.
 ## Experience
 
 **[PayGlocal](https://www.linkedin.com/company/payglocal/)**  
-AI Engineer · <sub>Sep 2026 – Present</sub>
+AI Engineer · Sep 2026 – Present
 
 **[District](https://www.linkedin.com/company/district-by-zomato/)**  
-Software Development Engineer · <sub>Jan – Sep 2026</sub>
+Software Development Engineer · Jan – Sep 2026
 
 **[Media.net](https://www.linkedin.com/company/media.net/)**  
-Software Development Intern · <sub>May – Jul 2025</sub>
+Software Development Intern · May – Jul 2025
 
 **[Infosys Centre for Artificial Intelligence, IIIT Delhi](https://www.linkedin.com/company/iiitdcai/)**  
-Research Intern · <sub>Jul – Nov 2024</sub>
+Research Intern · Jul – Nov 2024
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=6&section=header&color=0:4769B1,100:27877F" width="100%" alt=""/>
